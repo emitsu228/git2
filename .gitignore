@@ -1,3 +1,5 @@
 # файлы которыйе будут инорится
 moi.cfg
 *.py
+!git.py
+onlytome
