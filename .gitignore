@@ -3,3 +3,4 @@ moi.cfg
 *.py
 !git.py
 onlytome
+index.js
